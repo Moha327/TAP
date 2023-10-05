@@ -1,0 +1,48 @@
+.home{
+    color: #D1884F;
+}
+.svg1{
+    fill:#D1884F;
+}
+header{
+    margin-left: 900px;
+}
+.about{
+    margin-top: 5px;
+}
+.my-image{
+    height: 340px;
+    width: 340px;
+    margin-top:20px;
+    margin-left: 580px;
+    margin-right: 180px;
+    border-bottom-left-radius: 140px;
+    
+}
+.aboutme{
+    display: flex;
+    padding-left: 130px;
+    width: 1350px;
+    margin-top: 100px;
+}
+.readmore{
+    color: #3BBADB;
+    margin-top: 88px;
+   
+    width: 200px;
+}
+h1{
+    color: #3BBADB;
+    width: 350px;
+}
+.buttons{
+    margin-left: 100px;
+}
+.button1{
+    background-color: #3BBADB;
+    color: aliceblue;
+}
+.button2{
+    border-color: #3BBADB;
+    color: #3BBADB;
+}
